@@ -1,28 +1,15 @@
-### Hi there 👋
 
-<!--
-**TimIlTom/TimIlTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Toma Lupu) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TimIlTom&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TimIlTom&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TimIlTom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TimIlTom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=TimIlTom&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<div align="center" >
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=timiltom&column=6&no-bg=true&no-frame=true&theme=gruvbox" />
-</div>
-
-
-<br>
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timiltom&hide_title=1&langs_count=10&card_width=270&layout=compact&hide_border=true&theme=gruvbox&bg_color=ffffff00&count_private=true"/>
-	<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=timiltom&hide_border=true&background=none&theme=gruvbox_duo&count_private=true">
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
